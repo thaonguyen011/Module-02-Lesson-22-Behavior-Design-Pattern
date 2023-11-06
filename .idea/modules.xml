@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/22-BehaviorPattern.iml" filepath="$PROJECT_DIR$/22-BehaviorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandPractice/CommandPractice.iml" filepath="$PROJECT_DIR$/CommandPractice/CommandPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu/Menu.iml" filepath="$PROJECT_DIR$/Menu/Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MenuCommand/MenuCommand.iml" filepath="$PROJECT_DIR$/MenuCommand/MenuCommand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverPractice/ObserverPractice.iml" filepath="$PROJECT_DIR$/ObserverPractice/ObserverPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyExerceise/StrategyExerceise.iml" filepath="$PROJECT_DIR$/StrategyExerceise/StrategyExerceise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethodPractice/TemplateMethodPractice.iml" filepath="$PROJECT_DIR$/TemplateMethodPractice/TemplateMethodPractice.iml" />
+    </modules>
+  </component>
+</project>
